@@ -1,9 +1,9 @@
 # Site settings
-title: Ali Abdelkader Blog
+title: Ali Abdelkader
 author:
   name: Ali Abdelkader
   email: aly.abdelkader@aucegypt.edu
-description: "My personal Website and Blog"
+description: "My personal Blog"
 
 # Build settings
 remote_theme: jekyll/minima
