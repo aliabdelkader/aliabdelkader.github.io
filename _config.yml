@@ -7,3 +7,6 @@ description: "My personal Blog"
 
 # Build settings
 remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
