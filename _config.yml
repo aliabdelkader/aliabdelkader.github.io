@@ -9,4 +9,8 @@ description: "My personal Blog"
 remote_theme: jekyll/minima
 
 plugins:
-  - jekyll-feed
+ - jekyll-feed
+ - jekyll-seo-tag
+ 
+social_links:
+  linkedin: aliabdelkader
