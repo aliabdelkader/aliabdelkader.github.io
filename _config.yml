@@ -112,9 +112,9 @@ tag_archive:
   path: /tags/
 
 # Resume settings
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Software Engineer"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I am Ali. I am a software engineer and a researcher based in Cairo, Egypt. I started working in the automovitve industry 5 years ago specializing in simulation and virualization. I am currently interested in AI, Machine Learning and ML compilers </p>"
 
 
 # Decide which sections to use
@@ -122,8 +122,8 @@ resume_header_intro: "<p>This is the executive summary. You should write a few b
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
+resume_section_skills:          false
+resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
 resume_section_interests:       false
