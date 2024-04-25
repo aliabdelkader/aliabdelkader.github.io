@@ -1,16 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Camera and LiDAR Fusion for Point Cloud Semantic Segmentation
+  role: Master thesis
+  duration: Jan 2021 &mdash; Jan 2022
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: This project aimed at investigating the best approach to fuse data from LiDAR and Camera's sensors in a deep learning model in order to improve the semantic segmentation of the LiDAR's point cloud. <ol> <li>Different types of fusion approaches were investigated (in the input layers, after features extraction or late fusion at decision heads)</li> <li> State of the models were used for processing image, Vision based Transformer (ViT) and LiDAR point cloud ( Sparse Voxel Convolutional Neural Network )</li> <li>Performance evaluated on the popolar autonomous driving dataset used KiTTi.</li>  <li>Implementation based on deep learning framework (Pytorch, Timm Library)</li> </ol>
+  
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Smart Assisted Living Technology
+  role: Bachelor thesis
+  duration: Dec 2015 &mdash; Jun 2016
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: The Information Technology Industry Development Agency (ITIDA) funded this project which aimed at building a smart environment that enables the elderly to live independently under continuous health monitoring <br /> Designed and Implemented central server software which was responsible for&#58; <ol> <li> asynchronous reception and processing of data from various components of system using threading</li> <li> Logging data in database using MySQL queries </li> <li>Detecting patient's emergency situations by inspecting incoming data</li>  <li>Presenting data in an interactive GUI for patient and medical personal</li> </ol>
