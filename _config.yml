@@ -114,7 +114,7 @@ tag_archive:
 # Resume settings
 resume_title:                   "About Me"
 
-resume_header_intro: "<p>I am a software engineer and a researcher from Cairo, Egypt. I started working in the automovitve industry 5 years ago specializing in simulation and virualization. I am currently interested in AI, Machine Learning and ML compilers </p>"
+resume_header_intro: "<p>I am a software engineer and a researcher from Cairo, Egypt. I started working in the automovitve industry 5 years ago specializing in simulation and virtualization. I am currently interested in AI, Machine Learning and ML compilers </p>"
 
 
 # Decide which sections to use
