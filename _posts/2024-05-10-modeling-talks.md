@@ -4,7 +4,7 @@ tags:
   - AI
 ---
 
-one of the hidden treasures of the Youtube is Alphabet's Modeling Talks that are organized by [Greg Bronevetsky](https://www.linkedin.com/in/gregbronevetsky/). These talks feature researchers applying modeling to all sorts of problems such as economy, public infrastructure, climate change, diseases, chemistry and physics. The breadth of these talks is truly fascinating. They gave me a rare glimpse into what is happening in these research areas. I recommend those talks to anyone looking for research ideas or open science problems to apply AI/ML to.
+one of the hidden treasures of the Youtube is Alphabet's [Modeling Talks](https://sites.google.com/modelingtalks.org/entry/home) that are organized by [Greg Bronevetsky](https://www.linkedin.com/in/gregbronevetsky/). These talks feature researchers applying modeling to all sorts of problems such as economy, public infrastructure, climate change, diseases, chemistry and physics. The breadth of these talks is truly fascinating. They gave me a rare glimpse into what is happening in these research areas. I recommend those talks to anyone looking for research ideas or open science problems to apply AI/ML to.
 
 I encourage you to check the Model talks [homepage](https://sites.google.com/modelingtalks.org/entry/home) and Greg's [youtube channel](https://www.youtube.com/@gregbronevetsky)
 
