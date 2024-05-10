@@ -22,5 +22,7 @@ Unfortunately, MLIR has a steep learning curve. Here is a list of the resources 
 
 - Having a look at previous MLIR talks is also recommended [link](https://mlir.llvm.org/talks/).
 
+- Lei Zhang's blog on mlir / compiler development is also recommended after going through the previous resources [link](https://www.lei.chat/).
+
 I hope that was helpful. I will keep updating this list with resources as I progress more in my journey.
 
